@@ -31,10 +31,6 @@ MongoDB • Firebase • PostgreSQL • MySQL
 Tools & Platforms  
 Git • Linux • VS Code • Postman • Docker (learning)  
 
-### 📈 GitHub Insights
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-mukira&layout=compact&theme=tokyonight)
-
 ### 🌍 Beyond Code
 
 - Passionate about youth leadership and empowerment  
