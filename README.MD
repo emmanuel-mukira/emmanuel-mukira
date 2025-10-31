@@ -5,7 +5,7 @@ With three years of coding experience, I focus on writing scalable, efficient an
 
 ### 🚀 What I’m Up To
 
-- Preparing for the IEEE Xtreme Hackathon  
+- Preparing for the NIRU AI Hackathon
 - Developing an ERP system for operations management  
 - Building a mobile app that gamifies waste collection to promote sustainability  
 
