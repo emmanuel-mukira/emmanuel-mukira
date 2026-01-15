@@ -19,16 +19,16 @@ With three years of coding experience, I focus on writing scalable, efficient an
 ### 🧰 Tech Stack
 
 Languages  
-JavaScript • TypeScript • Python • Ruby • SQL • HTML • CSS  
+Java • JavaScript • TypeScript • Python • Ruby • SQL • HTML • CSS  
 
 Frameworks & Libraries  
-Node.js • Express.js • React • Ruby on Rails • Bootstrap • Tailwind CSS  
+Springboot • Node.js • Express.js • React • Ruby on Rails • Bootstrap • Tailwind CSS  
 
 Databases & Cloud  
 MongoDB • Firebase • PostgreSQL • MySQL  
 
 Tools & Platforms  
-Git • Linux • VS Code • Postman • Docker (learning)  
+Git • Linux • VS Code • Postman • Docker • Ansible • Prometheus • Grafana • Dokploy 
 
 ### 🌍 Beyond Code
 
