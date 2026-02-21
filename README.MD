@@ -1,4 +1,4 @@
-## 👋 Welcome
+## 👋 HELLO
 
 I'm a Computer Science student passionate about building AI-driven, full-stack applications that solve real problems in creative ways.  
 With three years of coding experience, I focus on writing scalable, efficient and human-centered software.
