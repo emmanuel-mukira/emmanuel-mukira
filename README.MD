@@ -6,7 +6,7 @@ With three years of coding experience, I focus on writing scalable, efficient an
 ### 🚀 What I’m Up To
 
 - Developing a Zero-Trust ERP system 
-- Learning DevOps hands on : Docker , Jenkins , Prometheus , Grafana , Linux Server Administration
+- Learning DevOps hands on : Docker , Woodpecker CLI , Prometheus , Grafana , Linux Server Administration , Forgejo , Authelia , Dockploy 
 
 ### 🧠 What Drives Me
 
