@@ -105,10 +105,6 @@ I like practical engineering. Not just “it works on my machine,” but systems
 
 ---
 
-I like practical engineering. Not just “it works on my machine,” but systems that are understandable, maintainable and useful to the people who rely on them.
-
----
-
 ## Technical Ecosystem
 
 ### Languages
