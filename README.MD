@@ -1,12 +1,14 @@
+<h1 align="center">Emmanuel Mukira</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=160&section=header&text=Emmanuel%20Mukira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI%20%26%20Systems%20Builder&descAlignY=60&descColor=38bdf8&animation=fadeIn" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Systems+Builder;Backend+%7C+DevOps+%7C+IoT+%7C+Zero+Trust" alt="Typing SVG" />
+  </a>
 </p>
 
-<h1 align="center">Hi, I'm Emmanuel Mukira</h1>
-
 <p align="center">
-  Computer Science student focused on building practical, secure, and intelligent software systems.
-  I enjoy working across full-stack development, AI-powered applications, backend architecture, DevOps, and IoT systems that solve real-world problems.
+  I build practical software systems across full-stack development, AI-powered applications, backend architecture, DevOps, and IoT.
+  I like working on projects that move beyond demos and solve real problems with clean design, reliable data flow, and secure system thinking.
 </p>
 
 <p align="center">
@@ -16,38 +18,60 @@
   <a href="mailto:emmanuelgichigo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/emmanuel-mukira">
+    <img src="https://img.shields.io/badge/GitHub-emmanuel--mukira-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## About Me
 
-I am passionate about building software that is not only functional, but useful, scalable, and human-centered. My current work sits at the intersection of full-stack engineering, AI integration, secure systems, and modern deployment workflows.
+I’m interested in the full journey of a system: the idea, the user workflow, the backend, the database, the security model, the deployment, and the real-world problem behind it. I enjoy building full-stack applications, but I’m especially drawn to systems that have practical depth: AI features, clean architecture, observability, authentication, automation, and reliable data flow.
 
-Right now, I am actively working on Zero Trust systems, backend-heavy web applications, IoT sensor integrations, and hands-on DevOps tooling. I am especially interested in how technology can solve local problems, improve everyday processes, and make digital systems more reliable and accessible.
-
----
-
-## Current Focus
-
-* Building AI-driven full-stack applications with clean architecture and practical user workflows
-* Developing and studying Zero Trust system designs
-* Working with IoT sensors, ESP32 boards, MQTT communication, and sensor data pipelines
-* Learning DevOps through Docker, Linux server administration, Prometheus, Grafana, Forgejo, Authelia, Dokploy, and CI/CD workflows
-* Exploring backend efficiency, system architecture, secure authentication, and deployment strategy
+Right now, I’m working on projects that involve AI-driven applications, Zero Trust system design, backend-heavy web systems, and IoT sensor integrations using ESP32, MQTT, and real-world sensor data pipelines.
 
 ---
 
-## Core Interests
+## Focus Areas
 
-* Full-stack application development
-* Backend systems and API design
-* AI-powered tools and intelligent automation
-* IoT, embedded systems, and sensor-based applications
-* DevOps, observability, and infrastructure tooling
-* Cybersecurity, Zero Trust, and secure system design
-* Blockchain and emerging financial technologies
-* Technology for local problem-solving and social impact
+<table>
+  <tr>
+    <td><strong>AI-powered applications</strong></td>
+    <td>Building tools that support smarter workflows, automation, and better decision-making.</td>
+  </tr>
+  <tr>
+    <td><strong>Backend architecture</strong></td>
+    <td>Designing APIs, databases, authentication flows, and maintainable server-side systems.</td>
+  </tr>
+  <tr>
+    <td><strong>Zero Trust systems</strong></td>
+    <td>Learning how to design around identity, access control, least privilege, and secure infrastructure.</td>
+  </tr>
+  <tr>
+    <td><strong>IoT and embedded systems</strong></td>
+    <td>Working with ESP32 boards, sensors, MQTT messaging, and live sensor data pipelines.</td>
+  </tr>
+  <tr>
+    <td><strong>DevOps and infrastructure</strong></td>
+    <td>Practicing Docker, Linux servers, monitoring, self-hosting, deployment workflows, and observability.</td>
+  </tr>
+</table>
+
+---
+
+## Engineering Map
+
+```txt
+Backend Engineering       ████████░░
+Full-Stack Development    ████████░░
+AI Integration            ███████░░░
+DevOps & Infrastructure   ██████░░░░
+IoT Systems               ██████░░░░
+Security Architecture     ██████░░░░
+```
+
+I like practical engineering. Not just “it works on my machine,” but systems that are understandable, maintainable, and useful to the people who rely on them.
 
 ---
 
@@ -99,6 +123,9 @@ Right now, I am actively working on Zero Trust systems, backend-heavy web applic
   <img src="https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dokploy-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Forgejo-FB923C?style=for-the-badge&logo=forgejo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Authelia-113155?style=for-the-badge&logo=authelia&logoColor=white" />
 </p>
 
 ### IoT and Embedded Systems
@@ -107,6 +134,7 @@ Right now, I am actively working on Zero Trust systems, backend-heavy web applic
   <img src="https://img.shields.io/badge/ESP32-111111?style=for-the-badge&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
   <img src="https://img.shields.io/badge/Sensor%20Data%20Pipelines-0F172A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Embedded%20Prototyping-334155?style=for-the-badge" />
 </p>
@@ -115,45 +143,36 @@ Right now, I am actively working on Zero Trust systems, backend-heavy web applic
 
 ## What Drives Me
 
-I like building systems that move beyond demos and actually help people work better. That means thinking about the database, the user flow, the security model, the deployment path, and the real problem being solved.
+Some problems are not solved by adding more features. They are solved by understanding the workflow properly, designing the system cleanly, and making the right parts intelligent.
 
-Some areas I keep coming back to:
+That is the kind of software I enjoy building: tools that help people make better decisions, automate repetitive work, organize messy processes, and turn scattered information into something useful.
 
-* Practical AI tools that improve decision-making and automate repetitive work
-* Backend systems that are clean, secure, and maintainable
-* Applications that solve local business and community problems
-* Secure authentication, access control, and infrastructure design
-* IoT systems that collect, transmit, and use real-world sensor data
-* Software that is simple enough to use but strong enough to scale
+My strongest interests are backend systems, AI-powered workflows, secure architecture, IoT data pipelines, and applications that solve local business or community problems.
 
 ---
 
 ## Beyond Code
 
-I am also passionate about youth leadership, mentorship, and community impact. I enjoy working with people, learning from different environments, and building solutions that connect technical skill with real-world value.
+Outside of software, I care about youth leadership, mentorship, and positive social impact. I’m interested in technology that does more than look impressive. I like projects that can actually help people, teams, businesses, and communities work better.
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuelgichigo&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="Emmanuel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-mukira&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="Emmanuel Mukira's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelgichigo&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-mukira&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" alt="Emmanuel Mukira's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuelgichigo&bg_color=0f172a&color=ffffff&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuel-mukira&bg_color=0f172a&color=ffffff&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Emmanuel Mukira's GitHub Contribution Graph" />
 </p>
 
 ---
 
 <p align="center">
   <em>Good code scales. Great code empowers.</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,50:1e293b,100:0f172a&height=100&section=footer" />
 </p>
