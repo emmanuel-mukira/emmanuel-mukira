@@ -48,62 +48,59 @@ Right now, I’m working on projects that involve AI-driven applications, Zero T
   </tr>
 </table>
 
----
-
 ## Engineering Map
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,spring,postgres,docker,linux,arduino" alt="Core engineering tools" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,spring,postgres,mysql,mongodb,firebase,docker,linux,git,github,arduino" alt="Core engineering tools" />
 </p>
 
-<table>
+<table align="center">
   <tr>
-    <td><strong>Backend Engineering</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/82?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="Backend Engineering progress" />
+    <td align="center" width="180">
+      <strong>Backend Engineering</strong><br/>
+      <img src="https://geps.dev/progress/88?dangerColor=ef4444&warningColor=f59e0b&successColor=22c55e" alt="Backend Engineering progress" /><br/>
+      <code>88%</code>
     </td>
-    <td><code>88%</code></td>
+    <td align="center" width="180">
+      <strong>Full-Stack Development</strong><br/>
+      <img src="https://geps.dev/progress/85?dangerColor=ef4444&warningColor=f59e0b&successColor=3b82f6" alt="Full-Stack Development progress" /><br/>
+      <code>85%</code>
+    </td>
+    <td align="center" width="180">
+      <strong>AI Integration</strong><br/>
+      <img src="https://geps.dev/progress/73?dangerColor=ef4444&warningColor=f59e0b&successColor=a855f7" alt="AI Integration progress" /><br/>
+      <code>73%</code>
+    </td>
   </tr>
   <tr>
-    <td><strong>Full-Stack Development</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/80?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="Full-Stack Development progress" />
+    <td align="center" width="180">
+      <strong>DevOps & Infrastructure</strong><br/>
+      <img src="https://geps.dev/progress/70?dangerColor=ef4444&warningColor=f59e0b&successColor=f97316" alt="DevOps and Infrastructure progress" /><br/>
+      <code>70%</code>
     </td>
-    <td><code>85%</code></td>
-  </tr>
-  <tr>
-    <td><strong>AI Integration</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/70?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="AI Integration progress" />
+    <td align="center" width="180">
+      <strong>IoT Systems</strong><br/>
+      <img src="https://geps.dev/progress/60?dangerColor=ef4444&warningColor=f59e0b&successColor=14b8a6" alt="IoT Systems progress" /><br/>
+      <code>60%</code>
     </td>
-    <td><code>73%</code></td>
-  </tr>
-  <tr>
-    <td><strong>DevOps & Infrastructure</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/65?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="DevOps and Infrastructure progress" />
+    <td align="center" width="180">
+      <strong>Security Architecture</strong><br/>
+      <img src="https://geps.dev/progress/70?dangerColor=ef4444&warningColor=f59e0b&successColor=eab308" alt="Security Architecture progress" /><br/>
+      <code>70%</code>
     </td>
-    <td><code>65%</code></td>
-  </tr>
-  <tr>
-    <td><strong>IoT Systems</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/65?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="IoT Systems progress" />
-    </td>
-    <td><code>60%</code></td>
-  </tr>
-  <tr>
-    <td><strong>Security Architecture</strong></td>
-    <td>
-      <img src="https://geps.dev/progress/60?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="Security Architecture progress" />
-    </td>
-    <td><code>70%</code></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Core%20Build-Full--Stack%20Systems-22c55e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current%20Track-Zero%20Trust%20%2B%20DevOps-f97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Applied%20Work-AI%20%2B%20IoT%20Pipelines-a855f7?style=for-the-badge" />
+</p>
 
 I like practical engineering. Not just “it works on my machine,” but systems that are understandable, maintainable, and useful to the people who rely on them.
 
 ---
+
 
 ## Technical Ecosystem
 
@@ -190,22 +187,25 @@ Outside of software, I care about youth leadership, mentorship and positive soci
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-mukira&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="Emmanuel Mukira's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=emmanuel-mukira&hide_border=true&background=0F172A&stroke=F97316&ring=22C55E&fire=FACC15&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22C55E&sideLabels=94A3B8&dates=94A3B8" alt="Emmanuel Mukira's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=emmanuel-mukira&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" alt="Emmanuel Mukira's GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmanuel-mukira&theme=github_dark" alt="Emmanuel Mukira's GitHub Profile Summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuel-mukira&layout=compact&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=ffffff" alt="Emmanuel Mukira's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emmanuel-mukira&theme=github_dark" alt="Repositories per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emmanuel-mukira&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emmanuel-mukira&bg_color=0f172a&color=ffffff&line=38bdf8&point=38bdf8&area=true&hide_border=true" alt="Emmanuel Mukira's GitHub Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emmanuel-mukira&theme=github_dark" alt="GitHub Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmanuel-mukira&theme=github_dark&utcOffset=3" alt="Productive Time" />
 </p>
 
 ---
+
 
 <p align="center">
   <em>Good code scales. Great code empowers.</em>
