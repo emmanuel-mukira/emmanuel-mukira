@@ -15,12 +15,6 @@
   <a href="https://www.linkedin.com/in/emmanuel-mukira-809658273/">
     <img src="https://img.shields.io/badge/LinkedIn-Emmanuel%20Mukira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:emmanuelgichigo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/emmanuel-mukira">
-    <img src="https://img.shields.io/badge/GitHub-emmanuel--mukira-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -49,10 +43,6 @@ Right now, I’m working on projects that involve AI-driven applications, Zero T
     <td>Learning how to design around identity, access control, least privilege and secure infrastructure.</td>
   </tr>
   <tr>
-    <td><strong>IoT and embedded systems</strong></td>
-    <td>Working with ESP32 boards, sensors, MQTT messaging and live sensor data pipelines.</td>
-  </tr>
-  <tr>
     <td><strong>DevOps and infrastructure</strong></td>
     <td>Practicing Docker, Linux servers, monitoring, self-hosting, deployment workflows and observability.</td>
   </tr>
@@ -62,14 +52,58 @@ Right now, I’m working on projects that involve AI-driven applications, Zero T
 
 ## Engineering Map
 
-```txt
-Backend Engineering       ████████░░
-Full-Stack Development    ████████░░
-AI Integration            ███████░░░
-DevOps & Infrastructure   ██████░░░░
-IoT Systems               ██████░░░░
-Security Architecture     ██████░░░░
-```
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,spring,postgres,docker,linux,arduino" alt="Core engineering tools" />
+</p>
+
+<table>
+  <tr>
+    <td><strong>Backend Engineering</strong></td>
+    <td>
+      <img src="https://geps.dev/progress/82?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="Backend Engineering progress" />
+    </td>
+    <td><code>88%</code></td>
+  </tr>
+  <tr>
+    <td><strong>Full-Stack Development</strong></td>
+    <td>
+      <img src="https://geps.dev/progress/80?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="Full-Stack Development progress" />
+    </td>
+    <td><code>85%</code></td>
+  </tr>
+  <tr>
+    <td><strong>AI Integration</strong></td>
+    <td>
+      <img src="https://geps.dev/progress/70?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="AI Integration progress" />
+    </td>
+    <td><code>73%</code></td>
+  </tr>
+  <tr>
+    <td><strong>DevOps & Infrastructure</strong></td>
+    <td>
+      <img src="https://geps.dev/progress/65?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="DevOps and Infrastructure progress" />
+    </td>
+    <td><code>65%</code></td>
+  </tr>
+  <tr>
+    <td><strong>IoT Systems</strong></td>
+    <td>
+      <img src="https://geps.dev/progress/65?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="IoT Systems progress" />
+    </td>
+    <td><code>60%</code></td>
+  </tr>
+  <tr>
+    <td><strong>Security Architecture</strong></td>
+    <td>
+      <img src="https://geps.dev/progress/60?dangerColor=ef4444&warningColor=f59e0b&successColor=38bdf8" alt="Security Architecture progress" />
+    </td>
+    <td><code>70%</code></td>
+  </tr>
+</table>
+
+I like practical engineering. Not just “it works on my machine,” but systems that are understandable, maintainable, and useful to the people who rely on them.
+
+---
 
 I like practical engineering. Not just “it works on my machine,” but systems that are understandable, maintainable and useful to the people who rely on them.
 
@@ -147,7 +181,7 @@ Some problems are not solved by adding more features. They are solved by underst
 
 That is the kind of software I enjoy building: tools that help people make better decisions, automate repetitive work, organize messy processes and turn scattered information into something useful.
 
-My strongest interests are backend systems, AI-powered workflows, secure architecture, IoT data pipelines and applications that solve local business or community problems.
+My strongest interests are full-stack systems, AI-powered workflows, secure architecture and applications that solve local business or community problems.
 
 ---
 
@@ -160,7 +194,11 @@ Outside of software, I care about youth leadership, mentorship and positive soci
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-mukira&show_icons=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="Emmanuel Mukira's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emmanuel-mukira&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=38bdf8&text_color=ffffff" alt="Emmanuel Mukira's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=emmanuel-mukira&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=94A3B8" alt="Emmanuel Mukira's GitHub Streak" />
 </p>
 
 <p align="center">
