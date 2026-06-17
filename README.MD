@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Computer+Science+Student;Full-Stack+Developer;AI+%26+Systems+Builder;Backend+%7C+DevOps+%7C+IoT+%7C+Zero+Trust" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI+%26+Systems+Builder;Backend+%7C+DevOps+%7C+Zero+Trust" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  I build practical software systems across full-stack development, AI-powered applications, backend architecture, DevOps, and IoT.
-  I like working on projects that move beyond demos and solve real problems with clean design, reliable data flow, and secure system thinking.
+  I build practical software systems across full-stack development, AI-powered applications, backend architecture, DevOps and IoT.
+  I like working on projects that move beyond demos and solve real problems with clean design, reliable data flow and secure system thinking.
 </p>
 
 <p align="center">
@@ -27,9 +27,9 @@
 
 ## About Me
 
-I’m interested in the full journey of a system: the idea, the user workflow, the backend, the database, the security model, the deployment, and the real-world problem behind it. I enjoy building full-stack applications, but I’m especially drawn to systems that have practical depth: AI features, clean architecture, observability, authentication, automation, and reliable data flow.
+I’m interested in the full journey of a system: the idea, the user workflow, the backend, the database, the security model, the deployment and the real-world problem behind it. I enjoy building full-stack applications, but I’m especially drawn to systems that have practical depth: AI features, clean architecture, observability, authentication, automation and reliable data flow.
 
-Right now, I’m working on projects that involve AI-driven applications, Zero Trust system design, backend-heavy web systems, and IoT sensor integrations using ESP32, MQTT, and real-world sensor data pipelines.
+Right now, I’m working on projects that involve AI-driven applications, Zero Trust system design, backend-heavy web systems and IoT sensor integrations using ESP32, MQTT and real-world sensor data pipelines.
 
 ---
 
@@ -38,23 +38,23 @@ Right now, I’m working on projects that involve AI-driven applications, Zero T
 <table>
   <tr>
     <td><strong>AI-powered applications</strong></td>
-    <td>Building tools that support smarter workflows, automation, and better decision-making.</td>
+    <td>Building tools that support smarter workflows, automation and better decision-making.</td>
   </tr>
   <tr>
     <td><strong>Backend architecture</strong></td>
-    <td>Designing APIs, databases, authentication flows, and maintainable server-side systems.</td>
+    <td>Designing APIs, databases, authentication flows and maintainable server-side systems.</td>
   </tr>
   <tr>
     <td><strong>Zero Trust systems</strong></td>
-    <td>Learning how to design around identity, access control, least privilege, and secure infrastructure.</td>
+    <td>Learning how to design around identity, access control, least privilege and secure infrastructure.</td>
   </tr>
   <tr>
     <td><strong>IoT and embedded systems</strong></td>
-    <td>Working with ESP32 boards, sensors, MQTT messaging, and live sensor data pipelines.</td>
+    <td>Working with ESP32 boards, sensors, MQTT messaging and live sensor data pipelines.</td>
   </tr>
   <tr>
     <td><strong>DevOps and infrastructure</strong></td>
-    <td>Practicing Docker, Linux servers, monitoring, self-hosting, deployment workflows, and observability.</td>
+    <td>Practicing Docker, Linux servers, monitoring, self-hosting, deployment workflows and observability.</td>
   </tr>
 </table>
 
@@ -71,7 +71,7 @@ IoT Systems               ██████░░░░
 Security Architecture     ██████░░░░
 ```
 
-I like practical engineering. Not just “it works on my machine,” but systems that are understandable, maintainable, and useful to the people who rely on them.
+I like practical engineering. Not just “it works on my machine,” but systems that are understandable, maintainable and useful to the people who rely on them.
 
 ---
 
@@ -143,17 +143,17 @@ I like practical engineering. Not just “it works on my machine,” but systems
 
 ## What Drives Me
 
-Some problems are not solved by adding more features. They are solved by understanding the workflow properly, designing the system cleanly, and making the right parts intelligent.
+Some problems are not solved by adding more features. They are solved by understanding the workflow properly, designing the system cleanly and making the right parts intelligent.
 
-That is the kind of software I enjoy building: tools that help people make better decisions, automate repetitive work, organize messy processes, and turn scattered information into something useful.
+That is the kind of software I enjoy building: tools that help people make better decisions, automate repetitive work, organize messy processes and turn scattered information into something useful.
 
-My strongest interests are backend systems, AI-powered workflows, secure architecture, IoT data pipelines, and applications that solve local business or community problems.
+My strongest interests are backend systems, AI-powered workflows, secure architecture, IoT data pipelines and applications that solve local business or community problems.
 
 ---
 
 ## Beyond Code
 
-Outside of software, I care about youth leadership, mentorship, and positive social impact. I’m interested in technology that does more than look impressive. I like projects that can actually help people, teams, businesses, and communities work better.
+Outside of software, I care about youth leadership, mentorship and positive social impact. I’m interested in technology that does more than look impressive. I like projects that can actually help people, teams, businesses and communities work better.
 
 ---
 
