@@ -136,6 +136,8 @@ I like practical engineering. Not just “it works on my machine,” but systems
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ### DevOps, Tooling and Infrastructure
@@ -150,9 +152,6 @@ I like practical engineering. Not just “it works on my machine,” but systems
   <img src="https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dokploy-0F172A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Forgejo-FB923C?style=for-the-badge&logo=forgejo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Authelia-113155?style=for-the-badge&logo=authelia&logoColor=white" />
 </p>
 
 ### IoT and Embedded Systems
