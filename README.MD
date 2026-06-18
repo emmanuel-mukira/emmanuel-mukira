@@ -51,7 +51,7 @@ Right now, I’m working on projects that involve AI-driven applications, Zero T
 ## Engineering Map
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,spring,postgres,mysql,mongodb,firebase,docker,linux,git,github,arduino" alt="Core engineering tools" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,react,nodejs,express,spring,postgres,mysql,mongodb,firebase,docker,linux,git,github,aws,azure" alt="Core engineering tools" />
 </p>
 
 <table align="center">
@@ -136,8 +136,8 @@ I like practical engineering. Not just “it works on my machine,” but systems
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111111" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </p>
 
 ### DevOps, Tooling and Infrastructure
