@@ -190,21 +190,11 @@ Outside of software, I care about youth leadership, mentorship and positive soci
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=emmanuel-mukira&theme=github_dark" alt="Emmanuel Mukira's GitHub Profile Summary" />
+  <img src="https://github-stats-extended-wheat.vercel.app/api?username=emmanuel-mukira&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=3600&theme=github_dark" alt="Emmanuel Mukira's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=emmanuel-mukira&theme=github_dark" alt="Repositories per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=emmanuel-mukira&theme=github_dark" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=emmanuel-mukira&theme=github_dark" alt="GitHub Stats Summary" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmanuel-mukira&theme=github_dark&utcOffset=3" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emmanuel-mukira&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophy" />
+  <img src="https://github-stats-extended-wheat.vercel.app/api/top-langs/?username=emmanuel-mukira&layout=compact&langs_count=8&cache_seconds=3600&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
