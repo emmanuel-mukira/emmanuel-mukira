@@ -203,6 +203,10 @@ Outside of software, I care about youth leadership, mentorship and positive soci
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=emmanuel-mukira&theme=github_dark&utcOffset=3" alt="Productive Time" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=emmanuel-mukira&theme=flat&no-frame=true&margin-w=8" alt="GitHub Trophy" />
+</p>
+
 ---
 
 
