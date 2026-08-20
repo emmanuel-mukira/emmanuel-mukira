@@ -186,7 +186,10 @@ Outside of software, I care about youth leadership, mentorship and positive soci
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=emmanuel-mukira&hide_border=true&background=0F172A&stroke=F97316&ring=22C55E&fire=FACC15&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22C55E&sideLabels=94A3B8&dates=94A3B8" alt="Emmanuel Mukira's GitHub Streak" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=emmanuel-mukira&hide_border=true&background=0F172A&stroke=F97316&ring=22C55E&fire=FACC15&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22C55E&sideLabels=94A3B8&dates=94A3B8"
+    alt="Emmanuel Mukira's GitHub Streak"
+  />
 </p>
 
 <p align="center">
